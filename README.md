@@ -1,6 +1,6 @@
-### boa vindas ao meu perfil
-
-meu nome é anna giulia
-**ANNA2212-png/ANNA2212-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a
 estou estudando no alura
-estou 
+estou me desenvolvendo na linguagem JavaSCRIPY
+utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+333
